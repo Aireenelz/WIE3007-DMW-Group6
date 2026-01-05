@@ -1,0 +1,3 @@
+df['LoanPurposeDescription'] = df['LoanPurposeDescription'].fillna("no description")
+
+
